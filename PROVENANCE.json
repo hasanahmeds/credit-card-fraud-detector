@@ -1,0 +1,117 @@
+{
+  "number": 14,
+  "title": "Credit Card Fraud Detector",
+  "slug": "credit-card-fraud-detector",
+  "start": "2025-08-23",
+  "end": "2025-09-09",
+  "repo": "curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras",
+  "branch": "master",
+  "license": "MIT",
+  "note": "Keras autoencoder credit-card anomaly notebook; data and trained weights have separate availability/usage considerations.",
+  "sha": "5315cfd086ef7ee14aa84525085b2996cbc9951e",
+  "archive_sha256": "df129673ac6ddf7b31018b3242691b1698c27f13e76739e14cf57b250f725704",
+  "imported_at": "2026-10-28T21:31:42.255524+00:00",
+  "history": "Reconstructed import history; dates are not dates of original development.",
+  "upstream_files": {
+    "upstream/.gitignore": {
+      "sha256": "914d5a29b443af19a32b39bca58cfc632d4d82b437a1b1b4c81444c4f0d39019",
+      "mode": "100644",
+      "bytes": 1136
+    },
+    "upstream/LICENSE": {
+      "sha256": "50c05c7f3823e12fb7eb822530f05a0a9a6d343ba53ee594893b5525357b8503",
+      "mode": "100644",
+      "bytes": 1071
+    },
+    "upstream/README.md": {
+      "sha256": "6a325dff7cbd9437478cf0d80189931998770b7a64060721c1a5c4212db61453",
+      "mode": "100644",
+      "bytes": 682
+    },
+    "upstream/data/creditcardfraud.zip": {
+      "sha256": "a78dcfddd57d4e9d196e2636b5a03782e6b30b72baaad5c4a3b5a640001bd8b1",
+      "mode": "100644",
+      "bytes": 71387154
+    },
+    "upstream/fraud_detection.ipynb": {
+      "sha256": "31320252e4fec13ecf3cbab3939e2fabfb541941aeb20dd714a6f215d17e625e",
+      "mode": "100644",
+      "bytes": 500855
+    },
+    "upstream/logs/events.out.tfevents.1497173435.poincare": {
+      "sha256": "41907d8ef6ce8de482b4454a069bb8ce6206304ebb576d6f824bfcbea0082d5e",
+      "mode": "100644",
+      "bytes": 146581
+    },
+    "upstream/logs/events.out.tfevents.1497174259.poincare": {
+      "sha256": "8f93376d5289a65aa4eb423827ea5b80dac27d1688308de118654b1b33d29074",
+      "mode": "100644",
+      "bytes": 143101
+    },
+    "upstream/logs/events.out.tfevents.1497174328.poincare": {
+      "sha256": "e479a24435832f382cf6858c06af542da1b0498fa3b45cfe3fa3ec51dbd46aec",
+      "mode": "100644",
+      "bytes": 151801
+    },
+    "upstream/logs/events.out.tfevents.1497175610.poincare": {
+      "sha256": "19e99a43659f07d32b76d9797a4d5f9d9ca525fdf99ddccaebee582421e88d39",
+      "mode": "100644",
+      "bytes": 286307
+    },
+    "upstream/logs/events.out.tfevents.1497175679.poincare": {
+      "sha256": "d047603a606d6061ae8aead2a813db4f51908ad90aa1c92961ab4f3b09cd7907",
+      "mode": "100644",
+      "bytes": 462549
+    },
+    "upstream/logs/events.out.tfevents.1497176316.poincare": {
+      "sha256": "6a36ab9edbf9dab295a1a2efa973b90df591699bac3ea7a06501f15dcf91deb3",
+      "mode": "100644",
+      "bytes": 160327
+    },
+    "upstream/logs/events.out.tfevents.1497193550.poincare": {
+      "sha256": "ea295556b3aa6776f1fdaf4390643ed7d41e8d6205cbcec874a4e3085a4fe766",
+      "mode": "100644",
+      "bytes": 160327
+    },
+    "upstream/model.h5": {
+      "sha256": "764b96ac343939ffe4f0034d59e166b7b9f98648d708e9504e1b1bfdf0eaa42f",
+      "mode": "100644",
+      "bytes": 36296
+    }
+  },
+  "excluded_git_metadata": [],
+  "history_repair": {
+    "pattern": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "approved_calendar": true,
+    "seed": 20251028,
+    "previous_main": "dfb42f9f0539cecb2d77c260a97b525b7ddc1d1c",
+    "daily_counts": {
+      "2025-08-23": 0,
+      "2025-08-24": 1,
+      "2025-08-25": 1,
+      "2025-08-26": 5,
+      "2025-08-27": 4,
+      "2025-08-28": 0,
+      "2025-08-29": 2,
+      "2025-08-30": 0,
+      "2025-08-31": 2,
+      "2025-09-01": 2,
+      "2025-09-02": 0,
+      "2025-09-03": 5,
+      "2025-09-04": 1,
+      "2025-09-05": 0,
+      "2025-09-06": 3,
+      "2025-09-07": 3,
+      "2025-09-08": 2,
+      "2025-09-09": 5
+    },
+    "description": "Reconstructed import timestamps; not original development dates."
+  }
+}

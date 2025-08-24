@@ -1,0 +1,256 @@
+[
+  {
+    "timestamp": "2025-08-24T16:20:12+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 1/36",
+    "prefix_bytes": {
+      "upstream/LICENSE": 1071
+    }
+  },
+  {
+    "timestamp": "2025-08-25T15:29:19+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 2/36",
+    "prefix_bytes": {
+      "upstream/data/creditcardfraud.zip": 71387154
+    }
+  },
+  {
+    "timestamp": "2025-08-26T14:02:55+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 3/36",
+    "prefix_bytes": {
+      "upstream/.gitignore": 1136
+    }
+  },
+  {
+    "timestamp": "2025-08-26T18:35:06+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 4/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 2214
+    }
+  },
+  {
+    "timestamp": "2025-08-26T19:19:08+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 5/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 4401
+    }
+  },
+  {
+    "timestamp": "2025-08-26T20:16:04+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 6/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 28176
+    }
+  },
+  {
+    "timestamp": "2025-08-26T21:04:46+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 7/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 28944
+    }
+  },
+  {
+    "timestamp": "2025-08-27T13:26:28+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 8/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 29738
+    }
+  },
+  {
+    "timestamp": "2025-08-27T14:39:48+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 9/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 68860
+    }
+  },
+  {
+    "timestamp": "2025-08-27T15:59:23+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 10/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 142525
+    }
+  },
+  {
+    "timestamp": "2025-08-27T18:50:16+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 11/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 144383
+    }
+  },
+  {
+    "timestamp": "2025-08-29T12:16:02+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 12/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 145887
+    }
+  },
+  {
+    "timestamp": "2025-08-29T17:20:51+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 13/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 147969
+    }
+  },
+  {
+    "timestamp": "2025-08-31T15:07:58+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 14/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 150863
+    }
+  },
+  {
+    "timestamp": "2025-08-31T19:37:15+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 15/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 153943
+    }
+  },
+  {
+    "timestamp": "2025-09-01T15:16:51+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 16/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 157023
+    }
+  },
+  {
+    "timestamp": "2025-09-01T22:03:37+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 17/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 163183
+    }
+  },
+  {
+    "timestamp": "2025-09-03T14:34:51+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 18/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 164679
+    }
+  },
+  {
+    "timestamp": "2025-09-03T16:26:55+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 19/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 229100
+    }
+  },
+  {
+    "timestamp": "2025-09-03T19:21:08+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 20/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 229948
+    }
+  },
+  {
+    "timestamp": "2025-09-03T21:05:06+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 21/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 232359
+    }
+  },
+  {
+    "timestamp": "2025-09-03T21:25:07+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 22/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 245424
+    }
+  },
+  {
+    "timestamp": "2025-09-04T17:34:20+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 23/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 258931
+    }
+  },
+  {
+    "timestamp": "2025-09-06T14:54:18+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 24/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 303917
+    }
+  },
+  {
+    "timestamp": "2025-09-06T15:13:16+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 25/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 375462
+    }
+  },
+  {
+    "timestamp": "2025-09-06T22:50:22+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 26/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 408221
+    }
+  },
+  {
+    "timestamp": "2025-09-07T15:14:36+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 27/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 466529
+    }
+  },
+  {
+    "timestamp": "2025-09-07T16:21:33+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 28/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 498781
+    }
+  },
+  {
+    "timestamp": "2025-09-07T22:16:36+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 29/36",
+    "prefix_bytes": {
+      "upstream/fraud_detection.ipynb": 500855
+    }
+  },
+  {
+    "timestamp": "2025-09-08T16:58:05+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 30/36",
+    "prefix_bytes": {
+      "upstream/logs/events.out.tfevents.1497173435.poincare": 146581
+    }
+  },
+  {
+    "timestamp": "2025-09-08T18:36:35+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 31/36",
+    "prefix_bytes": {
+      "upstream/logs/events.out.tfevents.1497174259.poincare": 143101
+    }
+  },
+  {
+    "timestamp": "2025-09-09T15:24:21+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 32/36",
+    "prefix_bytes": {
+      "upstream/logs/events.out.tfevents.1497174328.poincare": 151801
+    }
+  },
+  {
+    "timestamp": "2025-09-09T16:54:38+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 33/36",
+    "prefix_bytes": {
+      "upstream/logs/events.out.tfevents.1497175610.poincare": 286307,
+      "upstream/logs/events.out.tfevents.1497175679.poincare": 462549
+    }
+  },
+  {
+    "timestamp": "2025-09-09T17:28:05+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 34/36",
+    "prefix_bytes": {
+      "upstream/logs/events.out.tfevents.1497176316.poincare": 160327
+    }
+  },
+  {
+    "timestamp": "2025-09-09T20:25:26+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 35/36",
+    "prefix_bytes": {
+      "upstream/logs/events.out.tfevents.1497193550.poincare": 160327
+    }
+  },
+  {
+    "timestamp": "2025-09-09T22:38:40+00:00",
+    "message": "chore(import): reconstruct curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras slice 36/36",
+    "prefix_bytes": {
+      "upstream/model.h5": 36296,
+      "upstream/README.md": 682
+    }
+  }
+]
